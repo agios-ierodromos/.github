@@ -6,12 +6,9 @@ This organization has the intent to create open-source IPTV infrastructure based
 
 How can the community get involved?
 
-
-
 ## Resources
 
 Where can the community find your docs? Is there anything else the community should know?
-
 
 ## Definition
 
